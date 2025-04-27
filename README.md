@@ -15,4 +15,4 @@ Basically my playground for beating HTML/CSS into submission while making someth
 - Git/GitHub (for those "oops" moments)  
 
 ## Live Demo
-[See this masterpiece](https://your-username.github.io/odin-recipes) (when deployed)
+[See this masterpiece](https://Sakurai101.github.io/odin-recipes) (when deployed)
