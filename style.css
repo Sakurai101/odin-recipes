@@ -1,0 +1,75 @@
+.homepage {
+    background-color:#edfffe;
+}
+
+.carbonara-page {
+    background-color:#f3e4ff;
+}
+
+.box {
+    border: 2px #474747 dotted;
+    border-radius: 10px;
+    padding: 40px;
+    width: fit-content;
+    margin: 200px auto;
+    text-align: center;
+}
+
+.recipe-box {
+    background-color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px #474747 dotted;
+    border-radius: 10px;
+    padding: 20px;
+    width: 730px;
+}
+
+.recipe-box-image {
+    background-color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px #474747 dotted;
+    border-radius: 10px;
+    padding: 20px;
+    width: fit-content;
+}
+
+.recipe-box-ingredients {
+    background-color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px #474747 dotted;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
+    width: 730px;
+}
+
+.recipe-title,
+.recipe-description,
+.title,
+.recipe-list {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #474747;
+}
+
+.recipe-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a.links {
+    display: inline-block;
+    padding: 5px 10px;
+    color: #474747;
+    text-decoration: none;
+    text-align: center;
+  }
+
+a.links:hover {
+    color:#000000;
+    text-decoration: underline;
+}
+
+.dish-image {
+    border-radius: 10px;
+}
